@@ -154,7 +154,7 @@ hr {
   }
   
 
-  .h3{
+  .h3333{
     color: black;
     margin: 1% 0%;
     padding: 0% 0%;
@@ -243,10 +243,32 @@ h5{
   text-align: center;
 }
 
-.dot {
-  height: 25px;
-  width: 25px;
+.reddot {
+  height: 18px;
+  width: 18px;
   background-color: red;
   border-radius: 50%;
-  display: inline-block;
+
+  
+}
+
+.greendot {
+  height: 18px;
+  width: 18px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+.bluedot {
+  height: 18px;
+  width: 18px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+.purpledot {
+  height: 18px;
+  width: 18px;
+  background-color: purple;
+  border-radius: 50%;
 }
